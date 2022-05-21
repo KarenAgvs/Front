@@ -1,0 +1,53 @@
+.logoAppDiv{
+    float: left;
+    /* border: 2px solid #fff; */
+    width: 30%;
+}
+
+.logoAppimg{
+    width: 60%;
+    height: 40%;
+    padding-top: 1rem;
+
+}
+
+footer{
+    background-color:black ;
+    height: 500px;
+    
+}
+p{
+    color: #fff;
+    text-align: justify;
+}
+h3{
+    color: #fff;
+}
+
+.Cont{
+    width: 70%;
+}
+.containers{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.textcentrado{
+    text-align: center;
+    
+}
+
+.redes{
+    
+    width: 20%;
+    margin:auto
+}
+
+.icons{
+    margin: 5px;
+    display: inline-block;
+    list-style: none;
+}
+
+
+

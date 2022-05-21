@@ -1,0 +1,19 @@
+ul li{
+    margin: 10px;
+
+
+}
+
+a{
+    cursor: pointer;
+}
+
+footer{
+    background-color: #fff;
+    width: 95%;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

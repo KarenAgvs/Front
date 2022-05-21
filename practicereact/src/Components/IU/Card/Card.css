@@ -1,0 +1,15 @@
+.divCatimage{
+    border-radius: 10px;
+    width: 20%;
+    margin: auto;
+    overflow: hidden;
+    height:500px ;
+    margin-bottom:10% ;
+    margin-top: 10%;
+}
+
+.divCatimage img{
+    width: 100%;
+    height:500px ;
+    border-radius: 10px;
+}

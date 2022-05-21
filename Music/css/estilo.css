@@ -1,0 +1,219 @@
+@charset "utf-8";
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.music{
+    background-image: url("../image/angel-jimenez.jpg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+.music h1{
+    font-size: 175px;
+    color: white;  
+    position: relative;
+    top: 33%;
+    margin-left: 34%;
+    font-family: 'Karla', sans-serif;
+    font-weight: 300;
+}
+
+.fun{
+    width: 100%;
+    height: 600px;
+    margin-top: 200px;
+}
+.funimg h1{
+    font-size: 50px;
+    padding-left: 130px;
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+
+}
+.funimg p{
+    text-align: justify;
+    font-size: 30px;
+    padding-left: 130px;
+    font-family: 'Karla', sans-serif;
+}
+.boton1{
+    margin-left: 130px;
+    font-size: 20px;
+    background-color:rgb(253, 76, 92);
+    border-radius: 20px;
+    color: white;
+    width:200px;
+    height: 45px;
+}
+.foto1{
+    width: 500px;
+    height: 600px;
+    float: right;
+    padding-right: 100PX;
+    padding-left: 100px;
+}
+.colormus{
+    background: linear-gradient(to right, #ff8432, #AB2D86,  #AB2D86, #AB2D86);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.colormus2{
+    background: linear-gradient(to right, #ff8432, #ff8432,#ff8432, #AB2D86,#AB2D86);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.foto2{
+    width: 500px;
+    height: 600px;
+    float: left;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.divlouder h1{
+    font-size: 50px;
+    padding-left: 130px;
+    margin: 0;
+    font-family: 'Karla', sans-serif;
+}
+.divlouder p{
+    text-align: justify;
+    font-size: 25px;
+    padding-left: 130px;
+    padding-right: 130px;
+    font-family: 'Karla', sans-serif;
+
+}
+.boton{
+    font-size: 20px;
+    background-color:rgb(253, 76, 92);
+    border-radius: 20px;
+    color: white;
+    width:200px;
+    height: 45px;
+}
+.boton2{
+    font-size: 20px;
+    background-color:rgb(253, 76, 92);
+    border-radius: 20px;
+    color: white;
+    width:200px;
+    height: 45px;
+    float: left;
+}
+.vibes{
+    width: 100%;
+    height: 600px;
+    margin-top: 200px;
+    background-image: url("../image/john-raptis.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
+.vibes h1{
+    float: right;
+    font-size: 50px;
+    font-family: 'Karla', sans-serif;
+    color: white;
+    padding-bottom: 30px;
+}
+.vibes p{
+    font-size: 25px;
+    font-family: 'Karla', sans-serif;
+    color:white;
+    float: right;
+    padding-bottom: 30px;
+}
+.sound1{
+    float: right;
+    width: 50%;
+    padding-top: 170px;
+
+}
+.clear{
+    clear: both;
+}
+footer{
+    width: 100%;
+    height: 500px;
+    background: linear-gradient(to right, rgb(253, 76, 92), rgb(253, 36, 92));
+
+}
+.divlast{
+    position: relative;
+    top: 25%;
+}
+
+.divf1{
+    display: grid;
+    grid-gap: 20px;
+    padding: 30px, 30px;
+    float: left;
+    margin-left: 200px;
+    margin-right: 100px;
+    height: 100px;
+    width: 100px;
+}
+.divf2{
+    display: grid;
+    grid-gap: 20px;
+    padding: 30px, 30x;
+    float: left;    
+    margin-right: 100px;
+    height: 100px;
+    width: 100px;
+}
+.divf3{
+    display: grid;
+    grid-gap: 20px;
+    padding: 30px, 30x;
+    float: left;
+    margin-right: 150px;
+    height: 100px;
+    width: 100px;
+
+}
+.divf4{
+    display: grid;
+    grid-gap: 20px;
+    padding: 30px, 30x;
+    margin-right: 200px;
+    height: 100px;
+    width: 100px;
+}
+.divlast ul li{
+    list-style: none;
+}
+.divlast ul li a{
+    text-decoration:none;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+    font-size: 15px;
+    font-family: 'Karla', sans-serif;
+}
+.footerT{  
+    position: relative;
+    top: 60%;
+    margin-left: 200px;
+}
+.Mjhon{
+    float: left;
+    margin-left: 400px;
+    font-family: 'Karla', sans-serif;
+    color: white;
+}
+.linea{
+    color: white;
+    float: left;
+}
+.derechos{
+    float: left;
+    color: white;
+    font-family: 'Karla', sans-serif;
+}

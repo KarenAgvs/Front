@@ -1,0 +1,17 @@
+input {
+  width: 52rem;
+  height: 3rem;
+  border-radius: 10px;
+  background-color: #93b9d3;
+  color: #010a3a;
+  font-size: 2rem;
+}
+
+input::placeholder {
+  color: #eeee14;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #0b8b94;
+}

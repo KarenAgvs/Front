@@ -1,0 +1,16 @@
+.text{
+    color: #fff;
+    text-align: center;
+    text-align: justify;
+}
+
+.text-Container{
+    margin: auto;
+    width: 50%;
+    margin-top: 3rem ;
+}
+
+h2{
+    color: #fff;
+    text-align: center;
+}
